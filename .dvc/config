@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = gremote
+['remote "gremote"']
+    url = gdrive://1Ik8TvDLDdQewysRRPh0zfN8R6b4WJYzk
